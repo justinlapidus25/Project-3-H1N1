@@ -8,7 +8,7 @@
 
 
 # Looking at which confusion Matrixes produced the most accurate results
-<img width="487" alt="Screen Shot 2023-06-23 at 11 32 32 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/2d0f296a-8d58-46d2-aa1d-d29e10f6da50"> Logistic Regression / <img width="429" alt="Screen Shot 2023-06-23 at 11 32 39 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/5b6b77dc-09fc-4855-846c-0fb33a3dab38">/ <img width="447" alt="Screen Shot 2023-06-23 at 11 32 45 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/3c92694b-ee1c-408f-96bc-d0452b3db420">
+<img width="487" alt="Screen Shot 2023-06-23 at 11 32 32 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/2d0f296a-8d58-46d2-aa1d-d29e10f6da50"> / <img width="429" alt="Screen Shot 2023-06-23 at 11 32 39 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/5b6b77dc-09fc-4855-846c-0fb33a3dab38">/ <img width="447" alt="Screen Shot 2023-06-23 at 11 32 45 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/3c92694b-ee1c-408f-96bc-d0452b3db420">
 
 
 # Analyzing the results 
