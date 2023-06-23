@@ -3,12 +3,12 @@
   The past few years have shed light on the effectiveness of vaccines and the reluctance of participants in receiving a vaccine. To help learn which demographics are more likely to get vaccinated and which methods would be best used to increase participation. It is important to learn from the past, in particular, to look at the H1n1 crisis from 2009 to 2010. By analyzing this information one can best understand which groups to advertise towards and which advertisements groups would be the least effective. 
 
 # Formation of Pipelines with different classification models
-<img width="231" alt="Screen Shot 2023-06-23 at 11 27 38 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/3286e19c-2a7f-48b2-93c1-87f557f5bfec">/<img width="334" alt="Screen Shot 2023-06-23 at 11 27 50 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/969b6326-10b7-4645-a69d-2ba8db622196">/<img width="324" alt="Screen Shot 2023-06-23 at 11 28 12 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/cf1e263d-8812-4bb7-9bac-1185c269a2ea">
+<img width="231" alt="Screen Shot 2023-06-23 at 11 27 38 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/3286e19c-2a7f-48b2-93c1-87f557f5bfec"><img width="334" alt="Screen Shot 2023-06-23 at 11 27 50 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/969b6326-10b7-4645-a69d-2ba8db622196"><img width="324" alt="Screen Shot 2023-06-23 at 11 28 12 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/cf1e263d-8812-4bb7-9bac-1185c269a2ea">
 
 
 
 # Looking at which confusion Matrixes produced the most accurate results
-<img width="487" alt="Screen Shot 2023-06-23 at 11 32 32 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/2d0f296a-8d58-46d2-aa1d-d29e10f6da50"> / <img width="429" alt="Screen Shot 2023-06-23 at 11 32 39 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/5b6b77dc-09fc-4855-846c-0fb33a3dab38">/ <img width="447" alt="Screen Shot 2023-06-23 at 11 32 45 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/3c92694b-ee1c-408f-96bc-d0452b3db420">
+<img width="487" alt="Screen Shot 2023-06-23 at 11 32 32 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/2d0f296a-8d58-46d2-aa1d-d29e10f6da50"> <img width="429" alt="Screen Shot 2023-06-23 at 11 32 39 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/5b6b77dc-09fc-4855-846c-0fb33a3dab38"><img width="447" alt="Screen Shot 2023-06-23 at 11 32 45 AM" src="https://github.com/justinlapidus25/Project-3-H1N1/assets/130884190/3c92694b-ee1c-408f-96bc-d0452b3db420">
 
 
 # Analyzing the results 
